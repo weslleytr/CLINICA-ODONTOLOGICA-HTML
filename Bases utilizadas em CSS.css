@@ -1,0 +1,144 @@
+Pagina Principal e Sobre:
+<style>
+body {
+    margin: 0;
+}
+body {
+    background-color: #5983a0;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(141, 235, 235);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(162, 166, 170);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(148, 189, 189);
+    min-height: 150px;
+
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(99, 56, 240);
+    min-height: 150px;
+    text-align: center;
+    color: whitesmoke;   
+}
+
+Horario de Atendimento: 
+    table tr:nth-child(even){
+        background-color: lightblue;
+    }
+    table tr:nth-child(odd){
+        background-color: rgb(166, 221, 214);
+    }
+    table tr:hover td{
+        background-color: rgb(190, 192, 192);
+    }
+body {
+    margin: 0;
+}
+body {
+    background-color: #5983a0;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(141, 235, 235);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(162, 166, 170);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(148, 189, 189);
+    min-height: 150px;
+
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(99, 56, 240);
+    min-height: 150px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+Contato:
+ label{
+        width: 100px;
+        text-align: left;
+        display:block;
+        padding-right: 10px;
+    }
+body {
+    margin: 0;
+}
+body {
+    background-color: #5983a0;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(141, 235, 235);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(162, 166, 170);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(148, 189, 189);
+    min-height: 150px;
+
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(99, 56, 240);
+    min-height: 150px;
+    text-align: center;
+    color: whitesmoke;  
+}
